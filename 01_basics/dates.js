@@ -17,3 +17,14 @@
 // let totalVansRequired = Math.ceil(totalStudents / studentsPerVan);
 // console.log(totalVansRequired);
 
+//question 4: a viurs starts infecred one person at hour=1 and then after every hour the number of infected person doubles. find the total number of infected person after 10 hours.
+
+// let initialInfected = 1;
+// let totalHours = 2;
+
+// for (let hour = 1; hour <= totalHours; hour++) {
+//     initialInfected *= 2;
+// }
+// console.log(initialInfected);
+
+//Question 5: 
